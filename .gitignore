@@ -2,3 +2,4 @@ static/
 templates/
 venv/
 __pycache__/
+.idea/
