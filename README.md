@@ -15,6 +15,9 @@ You need Python 3.6 and Docker. Other modules are referenced in my [requirements
 
 - ```pip install -r requirements.txt ```
 
+## Running
+- ```python app.py```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
