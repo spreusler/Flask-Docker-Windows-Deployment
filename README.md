@@ -4,7 +4,7 @@ Do you want to implement a Flask framework and ship it by a Docker container? Th
 
 ## Getting Started
 
-You need Python 3.6 and Docker. Other modules are referenced in [requirements.txt](requirements.txt)
+You need Python 3.6 and Docker. Other modules are referenced in my [requirements.txt](requirements.txt)
 
 ### Prerequisites
 
