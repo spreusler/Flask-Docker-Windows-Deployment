@@ -11,9 +11,10 @@ You need Python 3.6 and Docker. Other modules are referenced in my [requirements
 - Python 3.6
 - Docker
 
-### Installing
+### Installing for manual use:
 
 - ```pip install -r requirements.txt ```
+- Run via ```python app.py ```
 
 ## License
 
